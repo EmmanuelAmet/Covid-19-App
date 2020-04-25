@@ -1,5 +1,6 @@
-# convid19update
+# covid19 App
 
+Get the latest and live update concerning covid19 Globally and every country.
 A new Flutter application.
 
 ## Getting Started
